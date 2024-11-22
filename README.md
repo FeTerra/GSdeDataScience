@@ -32,3 +32,6 @@ Para rodar este projeto, é necessário instalar as seguintes bibliotecas Python
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+
+Aluno: Felipe Terra
+RM: 99405
